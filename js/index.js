@@ -18,7 +18,7 @@ load.style.display="block";
       link.href = blobUrl;
 
       // Set the download attribute to the filename you want to save as
-      link.download = "Genus.apk";
+      link.download = "Genus_V1.0.apk";
 
       // Click the link element to trigger the download
       link.click();
